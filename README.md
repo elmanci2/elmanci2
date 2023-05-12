@@ -2,7 +2,6 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/andres-felipe-mancilla/) 
 
-[![LinkedIn](https://cdn-icons-png.flaticon.com/512/732/732208.png)](https://play.google.com/store/apps/dev?id=7414642321497295869&hl=es_CO&gl=US) 
 
 
 # 💻 Tech Stack:
